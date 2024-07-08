@@ -117,6 +117,7 @@ SahilDhavale
 - [Eunbi-Sung]
 - [Ovas04]
 - [HeinKoKo]
+- [Tester] ** Adding a tester account
 - [Ben Singeltary]
 - [Jonas Scherer](https://github.com/JLBS16180/) **I was here in 2024**
 - [Parker-DeYoung](https://github.com/parker-deyoung)**Hello! This is my first contirbution!**
